@@ -1,4 +1,5 @@
 # vue-chat-server
 
-Run
+Run `bash run.sh`
+
 > See [run.sh](run.sh)
